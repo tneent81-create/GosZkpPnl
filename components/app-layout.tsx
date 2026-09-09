@@ -39,7 +39,7 @@ const NAV_ITEMS = [
   { id: 'constructor', icon: Puzzle, label: 'Конструктор', href: '/constructor' },
   { id: 'analytics', icon: BarChart3, label: 'Аналитика', href: '/analytics' },
   { id: 'calculator', icon: Calculator, label: 'Калькуляторы', href: '/calculator' },
-  { id: 'bot', icon: Bot, label: 'Telegram-бот', href: '/bot' },
+  { id: 'bot', icon: Bot, label: 'Telegram-бот', href: '/bot-config' },
   { id: 'settings', icon: Settings, label: 'Настройки', href: '/settings' },
 ];
 
